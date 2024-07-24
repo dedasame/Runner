@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|c:\\users\\lain\\desktop\\unity-3d-projects\\runner\\assets\\scripts\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\assets\\scripts\\follower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\follower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\assets\\scripts\\random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\assets\\scripts\\skipped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skipped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\assets\\scripts\\infinity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infinity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\assets\\scripts\\homescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\homescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\assets\\scripts\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\Assets\\scripts\\Message.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Message.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\Assets\\scripts\\Message.cs",
+              "RelativeToolTip": "Assets\\scripts\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T06:53:33.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "homeScript.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\Assets\\scripts\\homeScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\homeScript.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\Assets\\scripts\\homeScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\homeScript.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwCAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T19:57:10.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Follower.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\Assets\\scripts\\Follower.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Follower.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\Assets\\scripts\\Follower.cs",
+              "RelativeToolTip": "Assets\\scripts\\Follower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:07:46.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\Assets\\scripts\\Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Controller.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\Assets\\scripts\\Controller.cs",
+              "RelativeToolTip": "Assets\\scripts\\Controller.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:07:45.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Skipped.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\Assets\\scripts\\Skipped.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Skipped.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\Assets\\scripts\\Skipped.cs",
+              "RelativeToolTip": "Assets\\scripts\\Skipped.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:07:49.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Infinity.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\Assets\\scripts\\Infinity.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Infinity.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\Assets\\scripts\\Infinity.cs",
+              "RelativeToolTip": "Assets\\scripts\\Infinity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:39:21.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Random.cs",
+              "DocumentMoniker": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\Assets\\scripts\\Random.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Random.cs",
+              "ToolTip": "C:\\Users\\Lain\\Desktop\\Unity-3D-Projects\\Runner\\Assets\\scripts\\Random.cs",
+              "RelativeToolTip": "Assets\\scripts\\Random.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T10:07:47.909Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
